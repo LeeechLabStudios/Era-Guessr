@@ -350,11 +350,11 @@ img{
         left:70px;
         width:150%;
     }
-}
-@media(max-width:500px){
     .DEV{
         height:2500px;
     }
+}
+@media(max-width:500px){
     .navbar{
         height:110px;
     }
