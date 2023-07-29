@@ -352,6 +352,9 @@ img{
     }
 }
 @media(max-width:500px){
+    .DEV{
+        height:2500px;
+    }
     .navbar{
         height:110px;
     }
